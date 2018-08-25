@@ -1,0 +1,23 @@
+insert all 
+into user_login(email,movie,name,password,usertype) values('rahul@gmail.com','pk','Rahul Sharma','rahul','user')
+into user_login(email,movie,name,password,usertype) values('rohit@gmail.com','ddlj','Rohit Sachan','rohit','user')
+into user_login(email,movie,name,password,usertype) values('priya@gmail.com','pk','Priya Singh','priya','user')
+into user_login(email,movie,name,password,usertype) values('purti@gmail.com','avtar','Purti Malik','purti','user')
+into user_login(email,movie,name,password,usertype) values('nihaal@gmail.com','run','Nihaal Chaudhary','nihaal','user')
+into user_login(email,movie,name,password,usertype) values('amit@gmail.com','race','Amit Agarwal','amit','user')
+into user_login(email,movie,name,password,usertype) values('pratik@gmail.com','pk','Pratik Verma','pratik','user')
+into user_login(email,movie,name,password,usertype) values('shikha@gmail.com','robot','Shikha Kapur','shikha','user')
+into user_login(email,movie,name,password,usertype) values('ricky@gmail.com','robot','Ricky Rathore','ricky','user')
+into user_login(email,movie,name,password,usertype) values('vani@gmail.com','kick','Vani Shukla','vani','user')
+into user_login(email,movie,name,password,usertype) values('nishi@gmail.com','pk','Nishi Roy','nishi','user')
+into user_login(email,movie,name,password,usertype) values('vishal@gmail.com','ddlj','Vishal Thakur','vishal','user')
+into user_login(email,movie,name,password,usertype) values('riya@gmail.com','run','Riya Somani','riya','user')
+into user_login(email,movie,name,password,usertype) values('shubh@gmail.com','khel','Shubh Jaiswal','shubh','user')
+into user_login(email,movie,name,password,usertype) values('kartik@gmail.com','race','Kartik Kamra','kartik','user')
+into user_login(email,movie,name,password,usertype) values('shaan@gmail.com','race','Shaan Singh','shaan','user')
+into user_login(email,movie,name,password,usertype) values('rakhi@gmail.com','avtar','Rakhi Rawat','rakhi','user')
+into user_login(email,movie,name,password,usertype) values('pooja@gmail.com','golmaal','Pooja Singh','pooja','user')
+into user_login(email,movie,name,password,usertype) values('ravi@gmail.com','golmaal','Ravi Vashi','ravi','user')
+into user_login(email,movie,name,password,usertype) values('seguro@gmail.com','pk','Seguro','seguro','admin')
+
+select * from dual;
